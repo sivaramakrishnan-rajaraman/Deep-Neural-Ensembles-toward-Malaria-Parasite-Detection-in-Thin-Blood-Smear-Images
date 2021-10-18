@@ -1,6 +1,6 @@
 # Deep-Neural-Ensembles-toward-Malaria-Parasite-Detection-in-Thin-Blood-Smear-Images
 
-### Please cite this work if you find these codes userful:
+Please cite this work if you find these codes useful for your research:
 
 ### Rajaraman S, Jaeger S, Antani SK. Performance evaluation of deep neural ensembles toward malaria parasite detection in thin-blood smear images. PeerJ. 2019 May 28;7:e6977. doi: 10.7717/peerj.6977. PMID: 31179181; PMCID: PMC6544011.
 
