@@ -1,4 +1,9 @@
 # Deep-Neural-Ensembles-toward-Malaria-Parasite-Detection-in-Thin-Blood-Smear-Images
+
+### Please cite this work if you find these codes userful:
+
+#### Rajaraman S, Jaeger S, Antani SK. Performance evaluation of deep neural ensembles toward malaria parasite detection in thin-blood smear images. PeerJ. 2019 May 28;7:e6977. doi: 10.7717/peerj.6977. PMID: 31179181; PMCID: PMC6544011.
+
 Malaria is a disease caused by the Plasmodium parasites that infects the red blood cells and results in life-threatening symptoms. Microscopic thick and thin film blood examination remains the common known method for disease diagnosis. However, manual identification and counting is burdensome. State-of-the-art computer aided diagnostic tools based on data-driven deep learning algorithms like convolutional neural networks (CNN) have become the architecture of choice for medical image recognition tasks. However, CNN suffers from high variance and may overfit due to their sensitivity to training data fluctuations. Model ensembles reduce variance by training and combining multiple models to learn a heterogeneous collection of mapping functions with reduced correlation in their predictions. In this study, we evaluate the performance of custom and pretrained CNNs and construct an optimal model ensemble toward the challenge of classifying parasitized and normal cells in thin blood smear images. The results obtained are encouraging and superior to the state-of-the-art. 
 
 # Prerequisites:
